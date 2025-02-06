@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.ibb.co/BH2n3Cbq/cover-thompson.png" height="200"/>
-</p><br>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👋 &nbsp;Bonjour! je m'appelle Erzen.
@@ -50,3 +50,6 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion&logoColor=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Thonny](https://img.shields.io/badge/-Thonny-05122A?style=flat&logo=thonny&logoColor=00A0E3)&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
