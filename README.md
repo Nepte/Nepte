@@ -3,7 +3,7 @@
 </p><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+## 👋 &nbsp;Bonjour! je m'appelle Erzen.
 
 ### 👨🏻‍💻 &nbsp;À propos de moi
 
@@ -12,7 +12,7 @@
 🌱 &nbsp;Je m'intéresse particulièrement à l'intelligence artificielle et à son impact sur la sécurité informatique.\
 ✍️ &nbsp;À mes heures perdues, je me consacre au design et aux CTF, deux passions qui me permettent d'exprimer ma créativité et mon savoir-faire.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Stack techniques
 
 #### 🔹 Langages de programmation  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
